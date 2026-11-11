@@ -1,31 +1,31 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tr011040.dlc", 
+        "title": "Russian DLC 1",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "Prepare For Weird Stuff", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "PersonalityCycle.DLC", 
+        "title": "Personality Cycler, Credits to FurbLord",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "Test1", "action": [75,0,3,4] },
+            { "title": "Test2", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "tr020730.dlc", 
+        "title": "Russian DLC 2",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "Prepare For Weird Stuff", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "tr022060.dlc", 
+        "title": "Russian DLC 3",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "Prepare For Weird Stuff ", "action": [75,0,4,4] }
         ]
     }
 ]
